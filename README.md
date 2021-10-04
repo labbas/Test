@@ -1,1 +1,1 @@
-# cositas
+# Repo general de pruebas varias
